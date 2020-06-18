@@ -46,7 +46,8 @@
     "version": 130
   },
   "pages": [
-    "Page 1"
+    "Page 1",
+    "Symbols"
   ],
   "sharedSwatches": {
     "_class": "swatchContainer",
@@ -68,6 +69,9 @@
     },
     "com.invisionlabs.sync": {
       "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    },
+    "com.plant.plantplugin": {
+      "plant_doc_id": "426FD946-1B6B-4A3B-B78D-0B4B90971EB6"
     }
   }
 }

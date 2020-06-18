@@ -1,15 +1,8 @@
 {
-  "_class": "artboard",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 0.9392266757246377,
-    "green": 0.9392266757246377,
-    "red": 0.9392266757246377
-  },
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "025683EB-BE9B-48B0-BE65-6905DD864831",
+  "do_objectID": "D6CD36A5-1182-42CB-A4A8-6C42478A3492",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,52 +15,28 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 667,
+    "height": 100,
     "width": 375,
-    "x": 490,
-    "y": 104
+    "x": 0,
+    "y": 0
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasBackgroundColor": true,
-  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "03315A08-3968-4FF1-8ACA-EC41F7D16361"
-    }
+  "name": "Header",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "1",
-  "nameIsFixed": true,
-  "presetDictionary": {
-    "allowResizedMatching": 1,
-    "height": 667,
-    "name": "iPhone 8",
-    "offersLandscapeVariant": 1,
-    "width": 375
-  },
-  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -102,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "9638DE80-F264-49E7-A126-22C6E89F3E6E",
+    "do_objectID": "4B23F339-F171-46C5-AE19-389B707BFD7B",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -114,10 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  }
+  "symbolID": "5B9D4B09-99CB-451E-BB2C-FE5DBEF0D8C6",
+  "verticalSpacing": 0
 }

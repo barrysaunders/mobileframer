@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -50,12 +50,12 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "F58D3416-1A40-42E0-A277-DFA13A6FBD77"
+      "class": "symbolInstance",
+      "id": "3879EE9C-CAAB-45DA-A7D5-BF92891E374A"
     }
   ],
-  "name": "iPhone 8 Copy 2",
-  "nameIsFixed": false,
+  "name": "3",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
     "height": 667,
