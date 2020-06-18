@@ -1,0 +1,73 @@
+{
+  "_class": "document",
+  "agreedToFontEmbedding": false,
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+    ],
+    "colors": [
+    ],
+    "do_objectID": "D2CAFBB1-7B41-42DD-817B-D6B9E9470DC5",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "autoEmbedFonts": false,
+  "colorSpace": 0,
+  "do_objectID": "7facbc60-b123-11ea-8551-a9d40157c5c5",
+  "fontReferences": [
+  ],
+  "foreignLayerStyles": [
+  ],
+  "foreignSwatches": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "66.1",
+    "build": 97080,
+    "version": 130
+  },
+  "pages": [
+    "Page 1"
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "objects": [
+    ]
+  },
+  "userInfo": {
+    "com.invision.dsm": {
+      "libraryMetadata": {
+        "sketchLibrariesData": {
+          "layerStylesMap": {
+          },
+          "symbolsMap": {
+          },
+          "textStylesMap": {
+          }
+        }
+      }
+    },
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}
