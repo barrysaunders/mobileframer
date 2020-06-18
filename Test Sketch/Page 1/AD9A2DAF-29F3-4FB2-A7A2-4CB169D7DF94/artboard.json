@@ -9,7 +9,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "025683EB-BE9B-48B0-BE65-6905DD864831",
+  "do_objectID": "AD9A2DAF-29F3-4FB2-A7A2-4CB169D7DF94",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,14 +24,14 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": 490,
+    "x": 1440,
     "y": 104
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -49,8 +49,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "rectangle",
+      "id": "F58D3416-1A40-42E0-A277-DFA13A6FBD77"
+    }
   ],
-  "name": "iPhone 8",
+  "name": "iPhone 8 Copy 2",
   "nameIsFixed": false,
   "presetDictionary": {
     "allowResizedMatching": 1,
@@ -98,7 +102,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "9638DE80-F264-49E7-A126-22C6E89F3E6E",
+    "do_objectID": "B2865E83-4BD2-4B6D-947A-4669C209E8E6",
     "endMarkerType": 0,
     "fills": [
     ],

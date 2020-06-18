@@ -1,8 +1,15 @@
 {
-  "_class": "page",
-  "booleanOperation": 0,
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9392266757246377,
+    "green": 0.9392266757246377,
+    "red": 0.9392266757246377
+  },
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7fabd200-b123-11ea-8551-a9d40157c5c5",
+  "do_objectID": "025683EB-BE9B-48B0-BE65-6905DD864831",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,49 +22,52 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 667,
+    "width": 375,
+    "x": 490,
+    "y": 104
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -333,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "025683EB-BE9B-48B0-BE65-6905DD864831"
-    },
-    {
-      "class": "artboard",
-      "id": "59964372-4977-4442-BB68-7FF1CCF7E94B"
-    },
-    {
-      "class": "artboard",
-      "id": "AD9A2DAF-29F3-4FB2-A7A2-4CB169D7DF94"
+      "class": "rectangle",
+      "id": "76E1CF0E-BEB6-415F-ABB7-D9FDB69A5DAE"
     }
   ],
-  "name": "Page 1",
+  "name": "iPhone 8",
   "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -92,7 +102,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "AC036FC2-8AD5-4F0A-B6EB-D4848D319A65",
+    "do_objectID": "9638DE80-F264-49E7-A126-22C6E89F3E6E",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -106,7 +116,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -265,
+    "base": 0,
     "guides": [
     ]
   }
